@@ -12,9 +12,9 @@ A game that tests you on your knowledge about the Indian states and Union Territ
 
 <p align="center">
 <br />
-<img src="https://i.ibb.co/2qFDDDm/India-States-1.png" height="80%" width="80%" alt="India-States-1">
+<img src="https://i.ibb.co/hfrTDDc/India-States-1.png" height="80%" width="80%" alt="India-States-1">
 <br />
-<img src="https://i.ibb.co/PYZx1d5/India-States-2.png" height="80%" width="80%" alt="India-States-2">
+ <br />
+<img src="https://i.ibb.co/3R9MrzK/India-States-2.png" height="80%" width="80%" alt="India-States-2">
 <br />
 </p>
-
